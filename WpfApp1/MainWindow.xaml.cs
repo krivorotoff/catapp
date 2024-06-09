@@ -19,7 +19,7 @@ namespace WpfApp1
         BitmapFrame b = BitmapFrame.Create(new Uri(@"https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/d/d1/%D0%A2%D1%80%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%B0.png/revision/latest?cb=20180824074848"));
         BitmapFrame c = BitmapFrame.Create(new Uri(@"https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/8/8f/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5_%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE_JE2_BE2.png/revision/latest?cb=20190424163743"));
         BitmapFrame d = BitmapFrame.Create(new Uri(@"https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/0/03/%D0%9C%D0%B8%D1%81%D0%BA%D0%B0_JE2_BE2.png/revision/latest?cb=20191116055457"));
-        BitmapFrame e = BitmapFrame.Create(new Uri(@"https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/9/94/%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%B0%D1%82%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.png/revision/latest?cb=20181116141612"));
+        BitmapFrame e = BitmapFrame.Create(new Uri(@"https://sun9-2.userapi.com/impg/hG0D28HoxYDEfbA5Nw6yKd26uTjXBsObSgTfJw/AkCRafi_Fss.jpg?size=563x594&quality=96&sign=f071807d1159ab7b6f49f0a9e280ad9e&type=album"));
 
 
         int food = 50;
